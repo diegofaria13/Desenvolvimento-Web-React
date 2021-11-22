@@ -1,0 +1,6 @@
+serratec-api/.gitignore
+serratec-api/config.js
+serratec-api/index.js
+serratec-api/init.sql
+serratec-api/package-lock.json
+serratec-api/package.json
